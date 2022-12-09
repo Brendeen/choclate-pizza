@@ -1,5 +1,51 @@
+body {
+  width: 901px;
+  margin: 0px auto;
+}
+
+
+
 hr {
   background-image: url("assets/hr-img.png");
   height: 10px;
   border: none;
+}
+
+header {
+  display: flex;
+  
+
+}
+
+header h1 {
+  font-size: xx-large;
+  font-family: cursive;
+}
+
+header h2 {
+  font-size: smaller;
+  font-family: sans-serif;
+}
+
+#topHeadings {
+  
+}
+
+.topIcons {
+  margin-left: auto;
+}
+
+.topMain {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: ;
+}
+
+.topMain h1 {
+  margin-right: 100%;
+}
+
+.topMain div {
+  display: flex;
+  margin-left: auto;
 }
