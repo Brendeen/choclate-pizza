@@ -27,10 +27,6 @@ header h2 {
   font-family: sans-serif;
 }
 
-#topHeadings {
-  
-}
-
 .topIcons {
   margin-left: auto;
 }
@@ -38,7 +34,7 @@ header h2 {
 .topMain {
   display: flex;
   flex-wrap: wrap;
-  margin-top: ;
+  margin-top: 5%;
 }
 
 .topMain h1 {
@@ -48,4 +44,33 @@ header h2 {
 .topMain div {
   display: flex;
   margin-left: auto;
+}
+
+footer{
+  text-align: center;
+}
+
+main p{
+  text-indent: 4ch;
+}
+
+.paragraphs{
+  margin: 20px 0px;
+
+}
+
+#pizza{
+  margin: 20px 0px;
+}
+
+.bottomText{
+  display: flex;
+  
+}
+
+button{
+  background-color: rgb(226, 157, 29);
+  color: white;
+  width: 25%;
+  height: 45px;
 }
